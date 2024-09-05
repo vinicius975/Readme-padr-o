@@ -35,7 +35,7 @@ Iremos apresentar menu como tabela de conteúdo, tecnologias,
 ## Features
 - [x] Badges
 - [x] Status
-- [] Tecnologias
+- [ ] Tecnologias
 
 
 <p id="mapa"></p>
